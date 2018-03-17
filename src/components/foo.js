@@ -1,0 +1,1 @@
+export const message = "Im am a component"
